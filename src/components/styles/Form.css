@@ -1,0 +1,37 @@
+form input{
+    width:14rem;
+    height:2.25rem;
+    border-radius:50px ;
+
+    margin: 0px 70px 0px 70px;
+    border-color: transparent;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-family: Inter;
+    
+}
+
+
+
+form {
+    margin-top:50px;
+
+
+}
+
+#submit{
+    width:27%;
+    margin-top:50px;
+    font-weight: 700;
+}
+
+.icon{
+    font-size: 30px;
+
+
+}
+
+div{
+    font-family: Inter;
+}
